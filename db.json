@@ -1,0 +1,9 @@
+{
+    "SupplierName": "abc",
+    "AmountDue": 12313,
+    "InvoiceNumber": "B3323",
+    "Invocie Amount": "12131",
+    "InvoiceDate": "Sep 23,2019",
+    "DueDate": "Oct 23,2019",
+    "InvoiceStatus": "45 days past due"
+}
